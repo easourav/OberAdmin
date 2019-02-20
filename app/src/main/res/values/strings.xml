@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ober Admin</string>
+    <string name="new_order">New Order</string>
+    <string name="home">home</string>
+    <string name="menu_list">Menu List</string>
+    <string name="add_table">Add Table</string>
+    <string name="post_advertise">Post Advertise</string>
+    <string name="about">About</string>
+    <string name="more">More</string>
 </resources>
